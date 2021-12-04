@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788092921835",
+    "project_id": "comercioonlinedb",
+    "storage_bucket": "comercioonlinedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788092921835:android:d0f235f8a0e00703185bae",
+        "android_client_info": {
+          "package_name": "com.abel026.comercioonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788092921835-6pativnqutilfmeqadnjq2fpdou1v76r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdBDKUUNSopiY6Ny6x4bzOco-Qd_iqV9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788092921835-6pativnqutilfmeqadnjq2fpdou1v76r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

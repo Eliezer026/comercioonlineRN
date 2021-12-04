@@ -1,0 +1,71 @@
+const bird = [
+  {
+    id: "1",
+    name: "Estufa",
+    nameBussines: "Frank Muebleria",
+    imageBussines: require("../images/frankmuebles.jpeg"),
+    location: "san pedro de macoris",
+    image: require("../images/paisajes.jpeg"),
+    price: 500,
+    description: "es una aves hermosa",
+  },
+  {
+    id: "2",
+    name: "Lavadora",
+    location: "san pedro de macoris",
+    image: require("../images/paisajes.jpeg"),
+    price: 500,
+    description: "es una aves hermosa",
+  },
+  {
+    id: "3",
+    name: "TV",
+    location: "san pedro de macoris",
+    image: require("../images/paisajes.jpeg"),
+    price: 500,
+    description: "es una aves hermosa",
+  },
+  {
+    id: "4",
+    name: "Muebles",
+    location: "san pedro de macoris",
+    image: require("../images/paisajes.jpeg"),
+    price: 400,
+    description:
+      "es una aves hermosafghsdgjghgdjghdfgjdghdjgdfgdfjghdfgjfdjgfdghfdhgjfdgjfdghdjghdfjghjdfhgjfdhgjfdhgjfdhjhgfdjgjhfdgdfjghfdjhgfdjghjdfjghdfjhgjfdhgjfdhgjdfhghfdghfdghfdgfdgjdfghjfdhgjdfhgjfdgfhjghfjghdfjgdfhgjdfghdfjgfhgjhfdghfdjghjfdhghfdjghdfjgfdjgdfghfdgjfdjghfdhjg",
+  },
+  {
+    id: "5",
+    name: "Plancha",
+    location: "san pedro de macoris",
+    image: require("../images/paisajes.jpeg"),
+    price: 500,
+    description: "es una aves hermosa",
+  },
+  {
+    id: "6",
+    name: "Comedor",
+    location: "san pedro de macoris",
+    image: require("../images/paisajes.jpeg"),
+    price: 500,
+    description: "es una aves hermosa",
+  },
+  {
+    id: "7",
+    name: "Cama",
+    location: "san pedro de macoris",
+    image: require("../images/paisajes.jpeg"),
+    price: 500,
+    description: "es una aves hermosa",
+  },
+  {
+    id: "8",
+    name: "Radio",
+    location: "san pedro de macoris",
+    image: require("../images/paisajes.jpeg"),
+    price: 500,
+    description: "es una aves hermosa",
+  },
+];
+
+export default bird;
